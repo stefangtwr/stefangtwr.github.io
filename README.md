@@ -7,4 +7,6 @@ In der Keksfabrik werden kekse gekekst
 
 [Testlink](test.md)
 
+[Bohren mit dem Bettschlitten](post.md)
+
 ![Resedagrün](docs/assets/images/Resedagrün.JPG)
