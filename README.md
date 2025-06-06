@@ -6,3 +6,5 @@
 In der Keksfabrik werden kekse gekekst
 
 [Testlink](test.md)
+
+![Resedagrün](docs/assets/images/Resedagrün.JPG)
