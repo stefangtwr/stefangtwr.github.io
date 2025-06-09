@@ -42,7 +42,7 @@ feed:
 permalink: /:categories/:year/:month/:day/:title/
 defaults:
   - scope:
-      path: "assets/img"
+      path: "post_assets/img"
     values:
       asset_type: "image"
   # language configurations
