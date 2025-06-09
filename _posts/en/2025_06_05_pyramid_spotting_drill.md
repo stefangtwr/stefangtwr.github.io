@@ -1,8 +1,12 @@
 ---
 title: Pyramid spotting drill
 date: 2025-06-05 21:53:59 +0200
-categories: jekyll update
+categories: Misc
 ---
+
+# Pyramid spotting drill
+
+*06.06-2025*
 
 ## General
 
@@ -11,26 +15,26 @@ There are specialized one or two flute carbide spotting drills for small diamete
 One alternative that I was made aware of is the pyramid spotting drill – This shape is referenced in literature a few times, not only as a spotting drill, but also as a micro engraving tool for hard materials.  
 Trying to visualize the problem with the chisel tip/web of standard spotting drills – They leave quite a large flat spot, that might already be too big to guide small drills.
 
-<a href="/assets/img/2025-06-05/dia.jpg"> <img src="/assets/img/2025-06-05/dia.jpg" height="320"/></a>
+<a href="post_assets/2025_06_06_pyramid_spotting_drill/dia.jpg"> <img src="post_assets/2025_06_06_pyramid_spotting_drill/dia.jpg" height="320"/></a>
 
 How big is that flat spot left by the web? I am glad you asked.
 
 <p>
-    <a href="/assets/img/2025-06-05/spot_hss_6mm_3.jpg"> <img src="/assets/img/2025-06-05/spot_hss_6mm_3.jpg" height="240"></a>
-    <a href="/assets/img/2025-06-05/spot_hss_6mm_1.jpg"> <img src="/assets/img/2025-06-05/spot_hss_6mm_1.jpg" height="240"></a> 
+    <a href="post_assets/2025_06_06_pyramid_spotting_drill/spot_hss_6mm_3.jpg"> <img src="post_assets/2025_06_06_pyramid_spotting_drill/spot_hss_6mm_3.jpg" height="240"></a>
+    <a href="post_assets/2025_06_06_pyramid_spotting_drill/spot_hss_6mm_1.jpg"> <img src="post_assets/2025_06_06_pyramid_spotting_drill/spot_hss_6mm_1.jpg" height="240"></a> 
 </p>
 
 On a good quality 6mm 90° spotting drill I measured a web width of 0,75mm.
 
 <p>
-    <a href="/assets/img/2025-06-05/spot_hss_6mm_2.jpg"> <img src="/assets/img/2025-06-05/spot_hss_6mm_2.jpg" height="240"></a>
+    <a href="post_assets/2025_06_06_pyramid_spotting_drill/spot_hss_6mm_2.jpg"> <img src="post_assets/2025_06_06_pyramid_spotting_drill/spot_hss_6mm_2.jpg" height="240"></a>
 </p>
 
 A similar 3mm 90° spotting drill still had a 0,52mm wide web.
 
 <p>
-    <a href="/assets/img/2025-06-05/spot_hss_3mm_2.jpg"> <img src="/assets/img/2025-06-05/spot_hss_3mm_2.jpg" height="240"></a>
-    <a href="/assets/img/2025-06-05/spot_hss_3mm_1.jpg"> <img src="/assets/img/2025-06-05/spot_hss_3mm_1.jpg" height="240"></a> 
+    <a href="post_assets/2025_06_06_pyramid_spotting_drill/spot_hss_3mm_2.jpg"> <img src="post_assets/2025_06_06_pyramid_spotting_drill/spot_hss_3mm_2.jpg" height="240"></a>
+    <a href="post_assets/2025_06_06_pyramid_spotting_drill/spot_hss_3mm_1.jpg"> <img src="post_assets/2025_06_06_pyramid_spotting_drill/spot_hss_3mm_1.jpg" height="240"></a> 
 </p>
 
 You can clearly see the wide web of the drill in the second picture.
@@ -46,8 +50,8 @@ The pyramid spotting drill is available as a commercial tool by Mitsubishi, in a
 It also comes with a technical datasheet that points out the advantages of this shape and recommendations for speeds and feeds.
 
 <p>
-    <a href="/assets/img/2025-06-05/mitsu_1.jpg"> <img src="/assets/img/2025-06-05/mitsu_1.jpg" height="240"></a>
-    <a href="/assets/img/2025-06-05/mitsu_2.jpg"> <img src="/assets/img/2025-06-05/mitsu_2.jpg" height="240"></a>
+    <a href="post_assets/2025_06_06_pyramid_spotting_drill/mitsu_1.jpg"> <img src="post_assets/2025_06_06_pyramid_spotting_drill/mitsu_1.jpg" height="240"></a>
+    <a href="post_assets/2025_06_06_pyramid_spotting_drill/mitsu_2.jpg"> <img src="post_assets/2025_06_06_pyramid_spotting_drill/mitsu_2.jpg" height="240"></a>
 </p>
 
 ## DIY solution
@@ -59,14 +63,14 @@ A D-Bit grinder, surface grinder with spin fixture, a milling machine with a div
 The angle, the facets need to be ground, can be determined in CAD – This example shows a setup for a 90° spotting angle – The Angle off the facets must be 63.4°
 
 <p>
-    <a href="/assets/img/2025-06-05/90deg.jpg"> <img src="/assets/img/2025-06-05/90deg.jpg" height="240"></a>
+    <a href="post_assets/2025_06_06_pyramid_spotting_drill/90deg.jpg"> <img src="post_assets/2025_06_06_pyramid_spotting_drill/90deg.jpg" height="240"></a>
 </p>
 
 The following example has been ground on a Deckel S1 T&C grinder out of 3mm carbide stock aka the shanks of good quality endmills.
 
 <p>
-    <a href="/assets/img/2025-06-05/pyramid_1.jpg"> <img src="/assets/img/2025-06-05/pyramid_1.jpg" height="240"></a>
-    <a href="/assets/img/2025-06-05/pyramid_2.jpg"> <img src="/assets/img/2025-06-05/pyramid_2.jpg" height="240"></a>
+    <a href="post_assets/2025_06_06_pyramid_spotting_drill/pyramid_1.jpg"> <img src="post_assets/2025_06_06_pyramid_spotting_drill/pyramid_1.jpg" height="240"></a>
+    <a href="post_assets/2025_06_06_pyramid_spotting_drill/pyramid_2.jpg"> <img src="post_assets/2025_06_06_pyramid_spotting_drill/pyramid_2.jpg" height="240"></a>
 </p>
 
 This very simple tool creates amazing, clean and round spot drills. The three cutting edges have a very negative cutting angle and are very robust, no matter what common material is machined.
@@ -78,7 +82,7 @@ What I found works best is a small amount of cutting oil for steel/stainless ste
 Used with oil it has a very nice and soft cutting action, creating fine, needle like chips.
 
 <p>
-    <a href="/assets/img/2025-06-05/chips.jpg"> <img src="/assets/img/2025-06-05/chips.jpg" height="240"></a>
+    <a href="post_assets/2025_06_06_pyramid_spotting_drill/chips.jpg"> <img src="post_assets/2025_06_06_pyramid_spotting_drill/chips.jpg" height="240"></a>
 </p>
 
 When cutting aluminum, alcohol can be used as a cutting fluid, with the advantage of flashing off and leaving clean, dry workpieces.
@@ -87,22 +91,22 @@ When cutting aluminum, alcohol can be used as a cutting fluid, with the advantag
 
 ### Spotting in aluminium AW5083 – The engraved numbers next to the spot drills represent the diameter of the spot
 <p>
-    <a href="/assets/img/2025-06-05/spot_aluminium.jpg"> <img src="/assets/img/2025-06-05/spot_aluminium.jpg" height="240"></a>
+    <a href="post_assets/2025_06_06_pyramid_spotting_drill/spot_aluminium.jpg"> <img src="post_assets/2025_06_06_pyramid_spotting_drill/spot_aluminium.jpg" height="240"></a>
 </p>
 
 Magnified view - 0,4 / 0,2 / 0,1mm spotting diameter, left to right.
 
 <p>
-    <a href="/assets/img/2025-06-05/spot_Alu_0_40.jpg"> <img src="/assets/img/2025-06-05/spot_Alu_0_40.jpg" height="240"></a>
-    <a href="/assets/img/2025-06-05/spot_Alu_0_20.jpg"> <img src="/assets/img/2025-06-05/spot_Alu_0_20.jpg" height="240"></a>
-    <a href="/assets/img/2025-06-05/spot_Alu_0_10.jpg"> <img src="/assets/img/2025-06-05/spot_Alu_0_10.jpg" height="240"></a>
+    <a href="post_assets/2025_06_06_pyramid_spotting_drill/spot_Alu_0_40.jpg"> <img src="post_assets/2025_06_06_pyramid_spotting_drill/spot_Alu_0_40.jpg" height="240"></a>
+    <a href="post_assets/2025_06_06_pyramid_spotting_drill/spot_Alu_0_20.jpg"> <img src="post_assets/2025_06_06_pyramid_spotting_drill/spot_Alu_0_20.jpg" height="240"></a>
+    <a href="post_assets/2025_06_06_pyramid_spotting_drill/spot_Alu_0_10.jpg"> <img src="post_assets/2025_06_06_pyramid_spotting_drill/spot_Alu_0_10.jpg" height="240"></a>
 
 </p>
 
 ### Spotting in hardened steel, an Old Carl Zeiss gage block
 <p>
-    <a href="/assets/img/2025-06-05/spot_gageblock.jpg"> <img src="/assets/img/2025-06-05/spot_gageblock.jpg" height="240"></a>
-    <a href="/assets/img/2025-06-05/spot_gageblock_magnified.jpg"> <img src="/assets/img/2025-06-05/spot_gageblock_magnified.jpg" height="240"></a>
+    <a href="post_assets/2025_06_06_pyramid_spotting_drill/spot_gageblock.jpg"> <img src="post_assets/2025_06_06_pyramid_spotting_drill/spot_gageblock.jpg" height="240"></a>
+    <a href="post_assets/2025_06_06_pyramid_spotting_drill/spot_gageblock_magnified.jpg"> <img src="post_assets/2025_06_06_pyramid_spotting_drill/spot_gageblock_magnified.jpg" height="240"></a>
 </p>
 
 Even in hardened steel, the pyramid drill leaves a very good center with minimal burr – Its amazing how well the unconventional geometry of the tool cuts almost all common materials.
@@ -110,7 +114,7 @@ Even in hardened steel, the pyramid drill leaves a very good center with minimal
 ### Spott drilled stainless steel workpiece
 
 <p>
-    <a href="/assets/img/2025-06-05/spot_14305.jpg"> <img src="/assets/img/2025-06-05/spot_14305.jpg" height="240"></a>
+    <a href="post_assets/2025_06_06_pyramid_spotting_drill/spot_14305.jpg"> <img src="post_assets/2025_06_06_pyramid_spotting_drill/spot_14305.jpg" height="240"></a>
 </p>
 
 ## Conclusion
@@ -128,8 +132,8 @@ That’s at least the common conception, but with micro drilling it seems to be 
 The issue is, with a larger tip angle, this style of tool starts to cut less well, since the included angle between the clearance and the top rake surface get bigger and bigger therefore more and more negative, requiring bigger force to make the tool cut well.
 
 <p>
-    <a href="/assets/img/2025-06-05/rake_90.jpg"> <img src="/assets/img/2025-06-05/rake_90.jpg" height="240"></a>
-    <a href="/assets/img/2025-06-05/rake_118.jpg"> <img src="/assets/img/2025-06-05/rake_118.jpg" height="240"></a>
+    <a href="post_assets/2025_06_06_pyramid_spotting_drill/rake_90.jpg"> <img src="post_assets/2025_06_06_pyramid_spotting_drill/rake_90.jpg" height="240"></a>
+    <a href="post_assets/2025_06_06_pyramid_spotting_drill/rake_118.jpg"> <img src="post_assets/2025_06_06_pyramid_spotting_drill/rake_118.jpg" height="240"></a>
 </p>
 
 90° Spotting angle: 78.5° included angle  
@@ -138,7 +142,7 @@ The issue is, with a larger tip angle, this style of tool starts to cut less wel
 If you want to give a 118° version a try, here is the angle to be ground onto the pyramid:
 
 <p>
-    <a href="/assets/img/2025-06-05/118deg.jpg"> <img src="/assets/img/2025-06-05/118deg.jpg" height="240"></a>
+    <a href="post_assets/2025_06_06_pyramid_spotting_drill/118deg.jpg"> <img src="post_assets/2025_06_06_pyramid_spotting_drill/118deg.jpg" height="240"></a>
 </p>
 
 Despite that, give them a try, I think you will not be disappointed – It has become one of my absolute favorite tools – Simple and very reliable.

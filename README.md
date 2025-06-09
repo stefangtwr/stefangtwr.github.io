@@ -6,4 +6,4 @@ redirect_from:
   - /
 ---
 
-The marvelous world of machining and engineerings
+The marvelous world of machining and engineering
