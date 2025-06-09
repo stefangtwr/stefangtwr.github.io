@@ -17,7 +17,7 @@ Since I didn’t want to make it into a science fair project, I voted against st
 
 The lightly sanded original paint was a sound underground for the following paint job.
 
-<a href="/assets/img/2025-06-04/shop_1.jpg"> <img src="/assets/img/2025-06-04/shop_1.jpg" height="240"></a>
+<a href="../../assets/img/2025-06-04/shop_1.jpg"> <img src="../../assets/img/2025-06-04/shop_1.jpg" height="240"></a>
 <a href="/assets/img/2025-06-04/shop_2.jpg"> <img src="/assets/img/2025-06-04/shop_2.jpg" height="240"></a>
 
 Everything was prepared by wiping down with acetone, followed by a heavy coat of self-etch primer.
