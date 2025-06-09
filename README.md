@@ -1,12 +1,9 @@
-# Testüberschrift zum Testen auf meinem Testblog
-## Testüberschrifft etwas kleiner
+---
+layout: home
+lang: en
+permalink: /en/
+redirect_from:
+  - /
+---
 
-## Keksfabrik
-
-In der Keksfabrik werden kekse gekekst
-
-[Testlink](test.md)
-
-[Bohren mit dem Bettschlitten](post.md)
-
-![Resedagrün](docs/assets/images/Resedagrün.JPG)
+The marvelous world of machining and engineerings
