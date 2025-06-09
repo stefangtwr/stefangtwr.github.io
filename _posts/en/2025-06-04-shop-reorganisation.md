@@ -1,9 +1,8 @@
 ---
 title: Shop reorganisation
 date: 2025-06-04 21:53:59 +0200
-categories: jekyll update
+categories: misc
 ---
-# Shop reorganisation
 
 It was time to re-arrange my machine shop a bit – I have two separate rooms, the smaller one contains my manual milling machine and the lathe, the bigger one has the surface grinder, CNC mill and all the support equipment like bandsaw, hardness tester, measuring microscope and drill press.
 
@@ -17,7 +16,7 @@ Since I didn’t want to make it into a science fair project, I voted against st
 
 The lightly sanded original paint was a sound underground for the following paint job.
 
-<a href="../../assets/img/2025-06-04/shop_1.jpg"> <img src="../../assets/img/2025-06-04/shop_1.jpg" height="240"></a>
+<a href="/assets/img/2025-06-04/shop_1.jpg"> <img src="/assets/img/2025-06-04/shop_1.jpg" height="240"></a>
 <a href="/assets/img/2025-06-04/shop_2.jpg"> <img src="/assets/img/2025-06-04/shop_2.jpg" height="240"></a>
 
 Everything was prepared by wiping down with acetone, followed by a heavy coat of self-etch primer.

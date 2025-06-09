@@ -1,10 +1,8 @@
 ---
 title: The Man with the Golden Gun
 date: 2025-06-06 21:53:59 +0200
-categories: jekyll update
+categories: misc
 ---
-# Shop reorganisation
-# Machinetools in movies – The Man with the Golden Gun
 
 Something different this time – A scene from a movie classic: The Man with the Golden Gun from 1974
 

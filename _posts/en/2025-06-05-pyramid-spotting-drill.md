@@ -1,7 +1,7 @@
 ---
 title: Pyramid spotting drill
 date: 2025-06-05 21:53:59 +0200
-categories: jekyll update
+categories: misc
 ---
 
 ## General
